@@ -1,0 +1,87 @@
+Subject: Request for QuotationFrom: client@example.comTo: sales@company.comDate: 2024-10-03Dear Sales Team,I am interested in getting a quotation for 100 units of Product Y. Please provide the details regarding the pricing and delivery time.Thank you.---Subject: Re: Request for QuotationFrom: sales@company.comTo: client@example.comDate: 2024-10-04Hi,Thank you for your inquiry. The price for 100 units of Product Y is $650. We can deliver within 5 days.Best Regards,Sales Team
+
+---
+
+
+**Subject**: Inquiry About Bulk Purchase  
+**From**: client@example.com  
+**To**: sales@company.com  
+**Date**: 2024-10-07  
+
+Dear Sales Team,  
+
+I would like to inquire about the price for 500 units of Product Z. Could you also provide details about shipping options and times?  
+
+Thank you.  
+
+---  
+
+**Subject**: Re: Inquiry About Bulk Purchase  
+**From**: sales@company.com  
+**To**: client@example.com  
+**Date**: 2024-10-08  
+
+Hi,  
+
+Thank you for reaching out. The price for 500 units of Product Z is $3,000. Shipping options include standard (7-10 days) and expedited (3-5 days).  
+
+Best regards,  
+Sales Team  
+
+---
+
+**Subject**: Pricing for Custom Order  
+**From**: client@example.com  
+**To**: sales@company.com  
+**Date**: 2024-10-10  
+
+Hello,  
+
+Could you please provide a quotation for a custom order of 200 units of Product X with logo printing? I would also like to know the estimated lead time for production.  
+
+Thank you,  
+Client  
+
+---  
+
+**Subject**: Re: Pricing for Custom Order  
+**From**: sales@company.com  
+**To**: client@example.com  
+**Date**: 2024-10-11  
+
+Hi,  
+
+We can fulfill your request for 200 units of Product X with custom logo printing for $1,500. The production time would be approximately 10 business days.  
+
+Best regards,  
+Sales Team  
+
+---
+
+**Subject**: Follow-Up on Quotation Request  
+**From**: client@example.com  
+**To**: sales@company.com  
+**Date**: 2024-10-12  
+
+Dear Sales Team,  
+
+Just following up on my previous email regarding the quotation for 150 units of Product Y. Could you confirm the availability and pricing?  
+
+Thank you,  
+Client  
+
+---  
+
+**Subject**: Re: Follow-Up on Quotation Request  
+**From**: sales@company.com  
+**To**: client@example.com  
+**Date**: 2024-10-13  
+
+Hi,  
+
+Thank you for following up. The price for 150 units of Product Y is $975, and we have sufficient stock. Delivery would take 4-6 business days.  
+
+Best regards,  
+Sales Team  
+
+
